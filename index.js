@@ -19,7 +19,7 @@ if (randomNumber1 > randomNumber2) {
 }
 
 if (randomNumber1 < randomNumber2) {
-  document.querySelector("h1").innerHTML = "Infamous Wins! 🚩 ";
+  document.querySelector("h1").innerHTML = "Dan Wins! 🚩 ";
 }
 
 if (randomNumber1 == randomNumber2) {
